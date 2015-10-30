@@ -9,3 +9,6 @@ C:\Users\Rowan\school\2e jaar\software engineering\les 2\oefeningyatz\YatzeeTeer
 C:\Users\Rowan\school\2e jaar\software engineering\les 2\oefeningyatz\YatzeeTeerling\YatzeeTeerling\obj\Debug\YatzeeTeerling.pdb
 C:\Users\Rowan\school\2e jaar\software engineering\les 2\oefeningyatz\YatzeeTeerling\YatzeeTeerling\obj\Debug\YatzeeTeerling.Yahtzee.resources
 C:\Users\Rowan\school\2e jaar\software engineering\les 2\oefeningyatz\YatzeeTeerling\YatzeeTeerling\obj\Debug\YatzeeTeerling.ScoreBoardView.resources
+C:\Users\Rowan\school\2e jaar\software engineering\rowan-vanekeren\opdracht-02-technische-analyse\YatzeeTeerling\YatzeeTeerling\bin\Debug\YatzeeTeerling.exe.config
+C:\Users\Rowan\school\2e jaar\software engineering\rowan-vanekeren\opdracht-02-technische-analyse\YatzeeTeerling\YatzeeTeerling\obj\Debug\YatzeeTeerling.exe
+C:\Users\Rowan\school\2e jaar\software engineering\rowan-vanekeren\opdracht-02-technische-analyse\YatzeeTeerling\YatzeeTeerling\obj\Debug\YatzeeTeerling.pdb
